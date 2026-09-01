@@ -1,0 +1,27 @@
+{
+  "language": {
+    "changed": "✅ Server language has been changed to **{{lang}}**.",
+    "current": "🌐 The current server language is **{{lang}}**.",
+    "invalid": "❌ Unsupported language. Available languages: {{list}}"
+  },
+  "welcome": {
+    "message": "👋 Welcome to the server, {{user}}!"
+  },
+  "automod": {
+    "warned": "⚠️ {{user}} received a warning for: {{reason}}",
+    "muted": "🔇 {{user}} has been muted for {{duration}}."
+  },
+  "ticket": {
+    "created": "🎫 Your ticket has been created: {{channel}}",
+    "closed": "🔒 Ticket closed by {{user}}."
+  },
+  "stats": {
+    "title": "📊 Server Statistics",
+    "members": "Members: {{count}}",
+    "messages": "Messages sent: {{count}}"
+  },
+  "errors": {
+    "no_permission": "🚫 You don't have permission to use this command.",
+    "generic": "❌ An error occurred."
+  }
+}

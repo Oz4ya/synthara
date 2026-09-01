@@ -1,0 +1,27 @@
+{
+  "language": {
+    "changed": "✅ La langue du serveur a été changée en **{{lang}}**.",
+    "current": "🌐 La langue actuelle du serveur est **{{lang}}**.",
+    "invalid": "❌ Langue non supportée. Langues disponibles : {{list}}"
+  },
+  "welcome": {
+    "message": "👋 Bienvenue sur le serveur, {{user}} !"
+  },
+  "automod": {
+    "warned": "⚠️ {{user}} a reçu un avertissement pour : {{reason}}",
+    "muted": "🔇 {{user}} a été rendu muet pendant {{duration}}."
+  },
+  "ticket": {
+    "created": "🎫 Ton ticket a été créé : {{channel}}",
+    "closed": "🔒 Le ticket a été fermé par {{user}}."
+  },
+  "stats": {
+    "title": "📊 Statistiques du serveur",
+    "members": "Membres : {{count}}",
+    "messages": "Messages envoyés : {{count}}"
+  },
+  "errors": {
+    "no_permission": "🚫 Tu n'as pas la permission d'utiliser cette commande.",
+    "generic": "❌ Une erreur est survenue."
+  }
+}
